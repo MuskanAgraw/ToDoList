@@ -44,15 +44,3 @@ To use ToDoList, follow these steps:
 7. Use the search bar to quickly find specific tasks.
 
 8. Enjoy the seamless experience of managing your tasks with ToDoList!
-
-## Contributing
-
-We welcome contributions from the community to improve ToDoList. If you have any suggestions, bug reports, or feature requests, please submit them via GitHub issues or open a pull request with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or support, please contact us at [support@example.com](mailto:support@example.com).
